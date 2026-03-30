@@ -111,7 +111,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Freelance Affiliate",
-      logoUrl: "/shopee.svg",
+      logoUrl: "/Shopee.svg",
       start: "January 2024",
       end: "now",
       description:
