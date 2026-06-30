@@ -116,6 +116,18 @@ export const DATA = {
       end: "now",
       description:
         "Created engaging affiliate content on social media platforms, including Instagram (@inspirasioutfitt.idn) and TikTok (@inspirasioutfitt.idn) ,Developed content strategies to increase audience engagement and drive sales conversions , Analyzed trends and audience behavior to optimize content performance ",
+    },
+    {
+      company: "Sagara Mobile",
+      href: "https://sagaramobile.com/",
+      badges: [],
+      location: "Remote",
+      title: "Freelance Project",
+      logoUrl: "/sagara.png",
+      start: "April 2026",
+      end: "Mei 2026",
+      description:
+        "Slicing web HRIS is the process of cutting a web design into smaller parts and converting them into HTML, CSS, and JavaScript code that can be used to create web pages. Slicing web HRIS is done to facilitate the web development process and ensure that the web design can be implemented properly.",
     }
    
   ],
@@ -139,16 +151,17 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "soon",
-      href: "soon",
-      dates: "Jan 2024 - Feb 2024",
+      title: "APLIKASI ABSENSI KANTOR ",
+      href: "/app.PNG",
+      dates: "INTERNSHIP PROJECT JULY 2024",
       active: true,
       description:
-        "",
+        "aplikasi absensi Kantor adalah aplikasi yang digunakan untuk mencatat kehadiran karyawan di kantor/sekolah. Aplikasi ini dapat digunakan untuk mencatat kehadiran karyawan secara manual maupun otomatis. Aplikasi ini dibuat untuk mempermudah data kehadiran karyawan.",
       technologies: [
-        // "Next.js",
+        "Laravel",
+        "TailwindCSS",
         // "Typescript",
-        // "PostgreSQL",
+        "PostgreSQL",
         // "Prisma",
         // "TailwindCSS",
         // "Stripe",
@@ -157,14 +170,157 @@ export const DATA = {
       ],
       links: [
         {
-          type: "Website",
-          href: "https://chatcollect.com",
+          type: "Local",
+          href: "/app.PNG",
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "",
+      image: "/app.PNG",
       video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+        "",
+    },
+      {
+      title: "APLIKASI ABSENSI SISWA ",
+      href: "SMK.PNG",
+      dates: "INTERNSHIP PROJECT JULY 2024",
+      active: true,
+      description:
+        "aplikasi absensi Sekolah adalah aplikasi yang digunakan untuk mencatat kehadiran siswa di sekolah. Aplikasi ini dapat digunakan untuk mencatat kehadiran siswa secara manual maupun otomatis. Aplikasi ini dibuat untuk mempermudah data kehadiran siswa.",
+      technologies: [
+        "Laravel",
+        "TailwindCSS",
+        // "Typescript",
+        "PostgreSQL",
+        // "Prisma",
+        // "TailwindCSS",
+        // "Stripe",
+        // "Shadcn UI",
+        // "Magic UI",
+      ],
+      links: [
+        {
+          type: "Local",
+          href: "S",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/SMK.PNG",
+      video:
+        "",
+    },
+     {
+      title: "CONTENT CREATOR INSTAGRAM (AFFILIATE) ",
+      href: "https://www.instagram.com/outfitinspirasi_62/",
+      dates: "FREELANCE ",
+      active: true,
+      description:
+        "Content creator for Inspirasinya Outfitt affiliate program, developing engaging social media content to promote products and drive sales.",
+      technologies: [
+        "FIGMA",
+        "CANVA",
+        // "Typescrip",
+        "SHOPEE",
+        // "Prisma",
+        // "TailwindCSS",
+        // "Stripe",
+        // "Shadcn UI",
+        // "Magic UI",
+      ],
+      links: [
+        {
+          type: "SOCIAL MEDIA (IG)",
+          href: "https://www.instagram.com/outfitinspirasi_62/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/ig.PNG",
+      video:
+        "",
+    },
+     {
+      title: "CONTENT CREATOR TIKTOK (AFFILIATE) ",
+      href: "https://www.tiktok.com/@inspirasioutfitt.idn",
+      dates: "FREELANCE ",
+      active: true,
+      description:
+        "Content creator for Inspirasinya Outfitt affiliate program, developing engaging social media content to promote products and drive sales.",
+      technologies: [
+        "FIGMA",
+        "CANVA",
+        "Tiktok",
+        "SHOPEE",
+        // "Prisma",
+        // "TailwindCSS",
+        // "Stripe",
+        // "Shadcn UI",
+        // "Magic UI",
+      ],
+      links: [
+        {
+          type: "SOCIAL MEDIA (TIKTOK)",
+          href: "https://www.tiktok.com/@inspirasioutfitt.idn",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/tiktok.PNG",
+      video:
+        "",
+    },
+      {
+      title: "OPEN TRIP WEBSITE ",
+      href: "SOON",
+      dates: "PERSONAL PROJECTT JANUARY 2026",
+      active: true,
+      description:
+        "Open trip website is a platform that allows users to book and manage their travel itineraries, including flights, accommodations, and activities. The website provides a user-friendly interface for planning and organizing trips, making it easier for travelers to explore new destinations.",
+      technologies: [
+        "LARAVEL",
+        "VUEJS",
+        // "Prisma",
+        "TailwindCSS",
+        // "Stripe",
+        // "Shadcn UI",
+        // "Magic UI",
+      ],
+      links: [
+        {
+          type: "LOCAL",
+          href: "",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/trip.PNG",
+      video:
+        "",
+    },
+     {
+      title: "SLICING WEB HRIS -SAGARA- ",
+      href: "https://sso-staging.sagaramobile.com/",
+      dates: "FREELANCE PROJECT APRIL 2026",
+      active: true,
+      description:
+        "Slicing web HRIS adalah proses memotong desain web menjadi bagian-bagian yang lebih kecil dan mengubahnya menjadi kode HTML, CSS, dan JavaScript yang dapat digunakan untuk membuat halaman web. Slicing web HRIS dilakukan untuk mempermudah proses pengembangan web dan memastikan bahwa desain web dapat diimplementasikan dengan baik.",
+      technologies: [
+        "Laravel",
+        "TailwindCSS",
+        "Typescript",
+        "PostgreSQL",
+        "NEXTJS",
+        // "TailwindCSS",
+        // "Stripe",
+        // "Shadcn UI",
+        // "Magic UI",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://sso-staging.sagaramobile.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/hris.PNG",
+      video:
+        "",
     },
  
   ],
