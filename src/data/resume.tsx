@@ -289,7 +289,7 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/trip.PNG",
+      image: "/trip.png",
       video:
         "",
     },
